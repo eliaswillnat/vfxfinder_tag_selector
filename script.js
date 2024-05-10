@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
             },
             {
                 "name": "Destruction & Combat",
-                "tags": ["weapons", "swords", "guns", "bullets", "explosions", "implosion", "combat", "trails", "condensationcloud", "", "gunfire", "punches", "kicks", "fights", "wars", "battles", "destructions", "collapse", "fractures", "shatters"]
+                "tags": ["weapons", "swords", "guns", "bullets", "explosions", "implosion", "combat", "trails", "condensationcloud", "gunfire", "punches", "kicks", "fights", "wars", "battles", "destructions", "collapse", "fractures", "shatters"]
             }
         ]
     };
