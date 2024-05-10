@@ -3,20 +3,32 @@ document.addEventListener("DOMContentLoaded", () => {
     const data = {
         "categories": [
             {
-                "name": "Destruction",
-                "tags": ["collapse", "implosion", "shatter"]
+                "name": "Elemental",
+                "tags": ["burn", "embers", "fire", "flame", "heat", "ignition", "pyro", "sparks", "lava", "magma", "cascade", "current",
+                        "flood", "ocean", "rain", "stream", "wave", "watersplash", "ice", "snow", "underwater", "gusts", "shockwave", "rock", "debris", "dust",
+                        "cascade", "current", "flood", "ocean", "rain", "splash", "stream", "wave"]
             },
             {
-                "name": "Explosion",
-                "tags": ["boom", "shockwave", "trails"]
+                "name": "Supernatural",
+                "tags": ["dimensions", "darkdimension", "distortion", "magic", "spells", "superpower", "superhuman", "slowmotion"]
             },
             {
-                "name": "Fire",
-                "tags": ["burn", "embers", "fire", "flame", "heat", "ignition", "pyro", "sparks"]
+                "name": "Sci-Fi & Space",
+                "tags": ["spacetime", "galaxy", "blackhole", "wormhole", "hyperspace", "teleportation", "artificialintelligence", "aliens", "invasion",
+                        "ai", "clone", "mutation", "star", "nebula", "sun", "solarsystem", "propulsion", "warpdrive", "timetravel", "quantumteleportation", "atomic", "laser"]
             },
             {
-                "name": "Water",
-                "tags": ["cascade", "current", "flood", "ocean", "rain", "splash", "stream", "wave"]
+                "name": "Weather & Natural Phenomena",
+                "tags": ["storm", "thunderbolt", "earthquake", "eruption", "fissure", "volcano", "artificialintelligence", "ai", "clone",
+                        "mutation", "tornado", "twister", "mountain", "lightning"]
+            },
+            {
+                "name": "Creatures, Magic & Fantasy",
+                "tags": ["dragon", "monster", "beast", "demon", "goblin", "troll", "vampire", "werewolf", "witch", "wizard", "elf", "dwarf", "orc", "dinosaurs", "trex"]
+            },
+            {
+                "name": "Destruction & Combat",
+                "tags": ["weapons", "swords", "guns", "bullets", "explosions", "implosion", "combat", "trails", "condensationcloud", "", "gunfire", "punches", "kicks", "fights", "wars", "battles", "destructions", "collapse", "fractures", "shatters"]
             }
         ]
     };
