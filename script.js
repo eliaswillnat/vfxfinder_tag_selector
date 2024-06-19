@@ -4,15 +4,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "categories": [
             {
                 "name": "Elemental",
-                "tags": ["burn", "embers", "fire", "flame", "heat", "ignition", "pyro", "sparks", "lava", "magma", "cascade", "current",
-                        "flood", "stream", "wave", "watersplash", "ice", "snow", "underwater", "gusts", "shockwave", "rock", "debris",
+                "tags": ["burn", "embers", "fire", "flame", "heat", "ignition", "pyro", "lava", "magma", "cascade", "current",
+                        "flood", "stream", "wave", "watersplash", "ice", "snow", "underwater", "gusts", "shockwave",
                         "splash", "acidic", "electricity", "energy", "dust", "smoke",
                         "liquid", "gas", "oxygen", "helium", "hydrogen", "rocks", "flames", "sand", "water", "droplet", "light", "plutonium", "air"]
             },
             {
                 "name": "Sci-Fi & Space",
                 "tags": ["spacetime", "blackhole", "wormhole", "hyperspace", "teleportation", "artificialintelligence", "aliens", "invasion",
-                        "ai", "clone", "mutation", "star", "nebula", "sun", "solarsystem", "propulsion", "atomic", "laser",
+                        "ai", "clone", "mutation", "star", "sun", "solarsystem", "propulsion", "atomic", "laser",
                         "beam", "void", "moon", "solarwaves", "earth", "planet", "stars", "astronaut", "beyond", "city", "clones", "endless", "eternity",
                         "scifi", "space", "futuristic", "galaxy", "universe", "kardashevscale1", "kardashevscale2", "kardashevscale3", "hud", "interstellar", "tachyondrive", "jumpdrive",
                         "timetravel", "quantumteleportation", "warpspeed", "lasersword", "lightsaber", "laserbeam", "lightspeed", "warpdrive", "holography", "hologram", "microverse", "microworld",
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 "name": "Creatures, Magic & Fantasy",
                 "tags": ["cells", "superpowers", "animals", "beasts", "bite", "bones", "creatures", "darkness", "magic", "utopian", "dystopian", "spells",
                         "onodrim", "horde", "immortality", "invisible", "monsters", "superhuman", "paralyzed", "mutants", "reptiles", "saliva", "portals", "dragons",
-                         "beasts", "demons", "goblin", "trolls", "vampires", "werewolf", "witch", "wizards", "elf", "dwarf", "orcs", "dinosaurs", "trex"]
+                         "demons", "goblin", "trolls", "vampires", "werewolf", "witch", "wizards", "elf", "dwarf", "orcs", "dinosaurs", "trex"]
             },
             {
                 "name": "Physics",
