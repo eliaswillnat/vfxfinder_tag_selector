@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
             },
             {
                 "name": "Vehicles & Machines",
-                "tags": ["cars", "bus", "airplanes", "rockets", "exosuits", "exoskeletons", "cyberneticsuits", "aircrafts", "bicycles", "trains", "flyingcars", "hovertrains", "maglevtrains",
+                "tags": ["cars", "bus", "airplanes", "rockets", "exosuits", "exoskeletons", "cyberneticsuits", "cyborg", "aircrafts", "bicycles", "trains", "flyingcars", "hovertrains", "maglevtrains",
                          "driverless", "machines", "robots", "skateboard", "hoverboard", "hyperloop", "helicopter", "spaceship", "spacestation", "megastructures", "ringstation", "spaceelevator",
                          "topopolis", "stellarengine", "matrioshkabrain", "dysonsphere", "gps"]
             }
