@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
             {
                 "name": "Weather & Natural Phenomena",
                 "tags": ["storm", "thunderbolt", "eruption", "fissure", "volcano", "clone",
-                        "mutation", "tornado", "twister", "mountain", "lightning", "rain", "coldness", "freezing", "snowing",
+                        "mutation", "tornado", "twister", "lightning", "rain", "coldness", "freezing", "snowing",
                         "clouds", "windy", "sandstorm", "geyser", "tsunami", "thunder", "ocean", "heatwaves", "splash", "melting", "atmosphere",
                         "earthquake", "night"]
             },
