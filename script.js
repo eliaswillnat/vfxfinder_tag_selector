@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             },
             {
                 "name": "Materials",
-                "tags": ["glass", "rubber", "fur", "wood", "plastics", "metals", "ceramics", "textiles", "concrete", "stones"]
+                "tags": ["glass", "rubber", "fur", "wood", "plastics", "metals", "ceramics", "textiles", "concrete", "stones", "subsurfaceskin"]
             },
             {
                 "name": "Creatures, Magic & Fantasy",
